@@ -18,11 +18,9 @@ This project is a simple Node.js API that implements user authentication with pa
 - bcrypt.js (password hashing)
 - dotenv (environment variables management)
 
-## Usage Examples
-
-- Register user
+## Usage ExampleS 
   
-  ![1](https://github.com/user-attachments/assets/94685a2e-9696-4830-acc3-0f826e999ae9)
+  
 
 - postgreSQL database
   ![2](https://github.com/user-attachments/assets/7c94c815-7523-4b57-847a-ea58ed75c163)
